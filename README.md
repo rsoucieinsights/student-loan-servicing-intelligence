@@ -12,7 +12,7 @@ The product is deliberately **not** a servicer scorecard. Complaint volume is no
 
 ## What to review
 
-- [Interactive dashboard](dashboard/index.html) — open locally in a modern browser; no build step or external service is required.
+- [Live interactive dashboard](https://rsoucieinsights.github.io/student-loan-servicing-intelligence/dashboard/) — explore the hosted portfolio prototype in your browser. You can also run it locally using the instructions below.
 - [Case study](CASE_STUDY.md) — the product question, evidence system, analytical turning point, governance, and automation boundary.
 - [Analysis notes](docs/ANALYSIS_NOTES.md) — the initial aggregate findings and interpretation guardrails.
 - [Build and handoff notes](docs/BUILD_NOTES.md) — what was directed by the human analyst, where AI assisted, and how the product could be maintained.
